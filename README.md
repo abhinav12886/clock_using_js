@@ -1,2 +1,3 @@
 # clock_using_js
-Made real time dispalying clock using Javascript, Bootstrap, HTML.
+Made clock dispalying real time using Javascript, Bootstrap, HTML.
+
